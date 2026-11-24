@@ -1,0 +1,4 @@
+# id|question|optionA|optionB|optionC|optionD|correctAnswer
+Q1|Which keyword is used to create an object in Java?|class|new|this|static|B
+Q2|Which data structure follows FIFO order?|Queue|Stack|Tree|Graph|A
+Q3|Which of these is a platform-independent programming language?|C|C++|Java|Assembly|C
